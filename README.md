@@ -1,16 +1,7 @@
-jekyll-theme-solid
+Blogs
 =================
 
-A simple and clean jekyll theme without javascript.
+- A simple and clean jekyll theme without javascript.
+- For posting the blogs and record paper-reading in one repo
 
-Online Demo: <https://mazhuang.org/jekyll-theme-solid>
-
-## Screenshots
-
-* Home page
-
-  ![home page](./images/screenshots/home.png)
-
-* Post page
-
-  ![post page](./images/screenshots/posts.png)
+ 
