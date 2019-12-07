@@ -1,6 +1,6 @@
 ---
 layout: post
-title: template page
+title: multiprocessInPython
 categories: [python]
 description: python learning
 keywords: parallel computing
