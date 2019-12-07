@@ -2,10 +2,10 @@
 #   Main Configs   #
 # ---------------- #
 baseurl: 
-url: https://mazhuang.org/jekyll-theme-solid
+url: https://shengdinghu.github.io/Blogs
 date_format: "ordinal"
 title: jekyll-theme-solid
-author: Zhuang Ma 
+author: Dingding
 
 # ---------------- #
 #   RSS / Email    #
