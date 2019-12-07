@@ -1,3 +1,12 @@
+---
+layout:     post   # 指定使用的模板文件，“_layout” 目录下的模板文件名决定变量名
+title:      title  # 文章的标题
+date:       date   # 覆盖文章名中的日期
+category:   blog   # 文章的类别
+description: description
+published:  true   # default true 设置 “false” 后，文章不会显示
+permalink:  /:categories/:year/:month/:day/:title.html  # 覆盖全局变量设定的文章发布格式
+---
 ## JavaScript难点
 
 JavaScript为什么这么复杂？为什么有回调，Promise，闭包诸如此类其他语言没有的东西？ 因为它是一门为了应对异步问题的语言。众所周知，JavaScript多用于网络编程（的后端）,网络编程为了应对耗时的网络通信，不能按程序一行行顺序执行。试想，如果有一行发起一个网络请求，耗时1s，但这一行并不影响下几行的执行，那么难道要等1s才执行下一行？另一种情况是，10行都发起网络请求，各耗时1s，难道要用10s一行一行地执行？因此我们需要的是在发起网络请求的时候同时往下执行。这种异步性正是JS的独特性。可以说我用Python写的东西，C都能写，无非是多一点，但是JS轻松处理的的东西，其他语言要实现就得难上天。
