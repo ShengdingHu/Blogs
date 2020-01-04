@@ -82,3 +82,25 @@ in setting of corresponding setting  (if open is WSL, modify in WSL:ubuntu, if o
 ![1577637758364](..\..\images\screenshots\1577637758364.png)
 
 ![1577637775470](..\..\images\screenshots\1577637775470.png)
+
+
+
+## Don't let unnecessary pylint functions bother you
+
+1.  sometimes the pylint always  report "import error"  or "unused import warning" to disregard these functions:
+
+   add the following in setting.json
+
+   ```json
+   "python.linting.pylintArgs": [
+             "--errors-only",
+             "--disable=E0401"
+        ],
+   ```
+
+
+## Install Better Fonts For Vscode 
+
+follow this blog:
+
+<https://www.f2td.com/2018/11/17/Font-recommendation-in-VS-Code-Fira-Code/>
