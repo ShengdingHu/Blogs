@@ -8,7 +8,7 @@ keywords: vscode,configuration
 
 
 
-# Vscode is The Best
+
 
 Recently I was doing my project on Operating System Class and was working together with students in Software Engineering Department. And We were working on Linux where we start from blank. And my teammates recommand VSCODE for writing code in linux because it's very flexible and small. Now I like it very much ! And I switch from using pycharm to vscode for python as well.
 

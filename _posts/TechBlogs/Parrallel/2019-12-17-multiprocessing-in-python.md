@@ -6,8 +6,6 @@ description: python learning
 keywords: parallel computing
 ---
 
-# multiprocessInPython
-
 Recently，I need to write a algorithm whose complexity is O(n^2 k^3 ), fortunately there are a big for loop, which each iteration doesn't influence the other iterations. So I spend a hour in learning multithread (but it behave badly) and multiprocess in Python. Here is a record.
 
 
