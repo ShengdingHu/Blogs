@@ -4,6 +4,7 @@ title: vscode is the best
 categories: software
 description: vscode configuration
 keywords: vscode,configuration
+typora-root-url: ..\..
 ---
 
 
@@ -77,11 +78,11 @@ in setting of corresponding setting  (if open is WSL, modify in WSL:ubuntu, if o
 
 
 
-![1577637699108](https://github.com/ShengdingHu/Blogs/blob/master/images/screenshots/1577637699108.png?raw=true)
+![1577637699108](/images/screenshots/1577637699108.png)
 
-![1577637758364](https://github.com/ShengdingHu/Blogs/blob/master/images/screenshots/1577637758364.png?raw=true)
+![1577637758364](/images/screenshots/1577637758364.png)
 
-![1577637775470](https://github.com/ShengdingHu/Blogs/blob/master/images/screenshots/1577637775470.png?raw=true)
+![1577637775470](/images/screenshots/1577637775470.png)
 
 
 
