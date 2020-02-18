@@ -31,7 +31,7 @@ vscode itself doesn't have many features. but it's **opensourced**, so many thir
 - intelligent completion: vs intellicode
 - git work flow: Git-Graph
 
-![1577638433822](..\..\images\screenshots\1577638433822.png)
+![1577638433822](..\..\_posts\images\screenshots\1577638433822.png)
 
 ## Open Vscode in WSL
 
