@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl: 
-url: https://shengdinghu.github.io/Blogs
+url: https://shengdinghu.github.io
 date_format: "ordinal"
 title: Blogs
 author: Dingding
