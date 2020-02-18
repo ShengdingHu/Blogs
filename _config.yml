@@ -30,7 +30,7 @@ collections:
     wiki:
         output: true
         permalink: /wiki/:path/
-
+repository: ShengdingHu/Blogs
 # ---------------- #
 #      Comments    #
 # ---------------- #
