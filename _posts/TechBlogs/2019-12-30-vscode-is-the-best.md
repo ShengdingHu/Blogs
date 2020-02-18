@@ -11,7 +11,7 @@ typora-root-url: ..\..
 
 
 
-Recently I was doing my project on Operating System Class and was working together with students in Software Engineering Department. And We were working on Linux where we start from blank. And my teammates recommand VSCODE for writing code in linux because it's very flexible and small. Now I like it very much ! And I switch from using pycharm to vscode for python as well.
+Recently I am doing my project on Operating System Class and  working together with students in Software Engineering Department. And We worked on Linux. And my teammates recommend VSCODE for writing code in Linux because it's very flexible and small. Now I like it very much ! And I switch from using pycharm to vscode for python as well.
 
 ## Comparison between Vscode and pycharm
 
@@ -22,9 +22,9 @@ Recently I was doing my project on Operating System Class and was working togeth
 | for new comer | a bit hard    | direct use                                    |
 | flexible      | very flexible | can only use what JetBrain provide            |
 
-## Amazing Plugins
+## Amazing Plug-ins
 
-vscode itself doesn't have many features. but it's **opensourced**, so many third party plugins are supported.
+vscode itself doesn't have many features. but it's **open-sourced**, so many third party plug-ins are supported.
 
 -  file transfer : SFTP
 - filesize : filesize
