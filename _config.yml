@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jie Zhou / 周界"
+title                    : "Shengding Hu / 胡声鼎"
 title_separator          : "-"
-name                     : &name "Jie Zhou"
+name                     : &name "Shengding"
 description              : &description "Master student @ Tsinghua University"
 url                      : "https://shengdinghu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
