@@ -15,13 +15,13 @@ My research interest currently includes Graph Neural Network, Knowledge Graph, a
 
 ## Publications
 ### 2020
-Shengding Hu, Zheng Xiong, Meng Qu, Xingdi Yuan,Marc-Alexandre Cˆot ́e, Zhiyuan Liu, and Jian Tang.2020.[Graph  Policy  Network  for  Transferable  Active Learning on Graphs](https://proceedings.neurips.cc/paper/2020/hash/73740ea85c4ec25f00f9acbd859f861d-Abstract.html).  *InProceedings of NeurIPS2020* [[code]](https://github.com/ShengdingHu/GraphPolicyNetworkActiveLearning)
+* **Shengding Hu**, Zheng Xiong, Meng Qu, Xingdi Yuan,Marc-Alexandre Cˆot ́e, Zhiyuan Liu, and Jian Tang.2020.[Graph  Policy  Network  for  Transferable  Active Learning on Graphs](https://proceedings.neurips.cc/paper/2020/hash/73740ea85c4ec25f00f9acbd859f861d-Abstract.html).  *InProceedings of NeurIPS2020* [[code]](https://github.com/ShengdingHu/GraphPolicyNetworkActiveLearning)
 
 
 ## Preprints
 \* indicates equal contribution.
 
-* **Jie Zhou\***, Ganqu Cui\*, Shengding Hu, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Changcheng Li, Maosong Sun. [Graph Neural Networks: A Review of Methods and Applications.](https://arxiv.org/abs/1812.08434) *Arxiv 2018.*
+* Jie Zhou\*, Ganqu Cui\*, **Shengding Hu**, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Changcheng Li, Maosong Sun. [Graph Neural Networks: A Review of Methods and Applications.](https://arxiv.org/abs/1812.08434) *Arxiv 2018.*
 
 ## Social Service
 
